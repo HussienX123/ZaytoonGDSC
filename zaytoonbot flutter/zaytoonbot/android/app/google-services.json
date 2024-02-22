@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "674310628934",
+    "firebase_url": "https://zaytoon-cf7db-default-rtdb.firebaseio.com",
+    "project_id": "zaytoon-cf7db",
+    "storage_bucket": "zaytoon-cf7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674310628934:android:0839bf00df05fcab7d8c47",
+        "android_client_info": {
+          "package_name": "com.zaytoon.zaytoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKmsef_HxRlDoI0b9u9zQc49It5AWk4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674310628934:android:872af4ecd07d59857d8c47",
+        "android_client_info": {
+          "package_name": "com.zaytoon.zaytoonpot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKmsef_HxRlDoI0b9u9zQc49It5AWk4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
